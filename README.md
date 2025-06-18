@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-favorite color = red
+-not written by AI
